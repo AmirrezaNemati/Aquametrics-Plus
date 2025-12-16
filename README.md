@@ -88,7 +88,7 @@ The software includes a "Scenario Manager" capable of simulating **21 different 
 
 This software is developed and validated as part of the following research. If you use Aquametrics Plus, please cite:
 
-> **Nemati Mansour, A.**, Javadi, S., Kardan Moghadam, H., Ostad-Ali-Askari, K., & Ramesh, A. (Under Review). *Introducing Aquametrics Plus - Water Accounting Plus (WA+) Software with a Balance Calculation Approach: A Case Study in the Upstream Side of Zayandehrood Dam*. Submitted to Innovative Infrastructure Solutions.
+> **Nemati Mansour, A.**, Javadi, S., Kardan Moghadam, H., Ostad-Ali-Askari, K., & Ramesh, A. *Introducing Aquametrics Plus - Water Accounting Plus (WA+) Software with a Balance Calculation Approach: A Case Study in the Upstream Side of Zayandehrood Dam*. Submitted to Innovative Infrastructure Solutions.
 
 ## 👨‍💻 Developer & Contact
 
