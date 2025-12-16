@@ -28,7 +28,7 @@ Traditional implementation of the WA+ framework is fraught with challenges:
 The software connects directly to the **FAO WaPOR API**. Users no longer need python scripts to download raster data. The built-in ETL (Extract, Transform, Load) engine automatically fetches, clips, and processes satellite imagery (Evaporation, Transpiration, Precipitation, etc.) based on the basin boundary.
 
 <p align="center">
-  <img src="resources/wapor_tool.jpg" alt="WaPOR Download Tool" width="700">
+  <img src="resources/wapor_tool.png" alt="WaPOR Download Tool" width="700">
   <br>
   <em>Figure 1: Integrated WaPOR Downloader with token authentication and spatial filtering.</em>
 </p>
