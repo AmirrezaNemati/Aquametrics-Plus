@@ -40,7 +40,7 @@ To ensure 0% calculation error, the software implements a rigid validation proto
 3.  **Mass Balance Check:** Ensures the "Closure Fraction" meets the required precision before generating reports.
 
 <p align="center">
-  <img src="resources/validation_system.jpg" alt="Validation System" width="700">
+  <img src="resources/validation_system.png" alt="Validation System" width="700">
   <br>
   <em>Figure 2: The intelligent error-handling system preventing invalid data entry and ensuring mass balance conservation.</em>
 </p>
@@ -49,7 +49,7 @@ To ensure 0% calculation error, the software implements a rigid validation proto
 Unlike previous methods, Aquametrics Plus has an **internal GIS engine**. It handles raster processing, shapefile management, and spatial calculations (zonal statistics) without requiring ArcGIS or QGIS.
 
 <p align="center">
-  <img src="resources/dashboard.jpg" alt="Main Interface" width="700">
+  <img src="resources/dashboard.png" alt="Main Interface" width="700">
   <br>
   <em>Figure 3: Main Dashboard featuring the layer manager and internal map viewer.</em>
 </p>
