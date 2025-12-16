@@ -17,7 +17,7 @@
 
 To see the automated workflow of Aquametrics Plus in action, watch the official demo below:
 
-[![Watch the Demo](resources/video_thumb.jpg)](https://youtu.be/tCm666FAUiY)
+[![Watch the Demo](resources/video_thumb.png)](https://youtu.be/tCm666FAUiY)
 
 > **Note:** This tutorial demonstrates the full cycle from WaPOR data acquisition to final report generation.
 
